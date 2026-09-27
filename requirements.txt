@@ -1,0 +1,6 @@
+Django==6.1.1
+django-ninja==1.7.1
+motor==3.7.1
+PyJWT==2.15.0
+argon2-cffi==25.1.0
+python-dotenv==1.2.3
